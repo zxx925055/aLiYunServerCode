@@ -13,7 +13,7 @@ const update = (params, sql) =>  {
     sql,
   }
 }
-
+// 11111
 module.exports = {
   NtNUpdate: update,
 }
